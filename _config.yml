@@ -1,24 +1,24 @@
 # Basic
-title: linyanfeng
+title: 枫林晚
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: raynas
 # 头像里面的描述
-avatarDesc: iOS /hahahah
-url: "http://baixin.io"
+avatarDesc:  通信/前端
+url: "https://raynas.github.io/"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus:
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 
+    github:raynas
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 2924777600@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
